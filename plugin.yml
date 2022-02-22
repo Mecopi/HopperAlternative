@@ -1,0 +1,9 @@
+name: HopperAlternative
+author: Mecopi
+version: 1.1
+main: fr.mecopi.hopperalternative.Main
+api-version: 1.13
+commands:
+   ha:
+      description: Cette commande permet d'acceder aux commandes du plugin HopperAlternative
+ 
